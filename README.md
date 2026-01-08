@@ -34,7 +34,8 @@ The main circuit integrates the registers, Arithmetic Logic Unit (ALU), and syst
 
 * **Multiplexing:** A network of multiplexers (MUX) manages data flow, selecting whether the bus is driven by general registers, the ALU result, or external input (`Din`).
 
-### 2. The Control Unit (`control-unit.png`)
+### 2. The Control Unit
+<img width="1978" height="1641" alt="control-unit" src="https://github.com/user-attachments/assets/e6cf6e30-5d37-4fcd-a367-4f478e0e050e" />
 
 The brain of the CPU, responsible for coordinating all components.
 
