@@ -21,7 +21,8 @@ The architecture is designed to be simple yet functional, capable of performing 
 
 ## Architecture Details
 
-### 1. The Datapath (`main.png`)
+### 1. The Datapath
+<img width="1191" height="1138" alt="main" src="https://github.com/user-attachments/assets/9db849a2-d058-4181-bda9-a15da6160977" />
 
 The main circuit integrates the registers, Arithmetic Logic Unit (ALU), and system bus.
 
