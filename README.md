@@ -1,4 +1,4 @@
-## Control Unit Was Made By <a href="https://github.com/Orcunysr">Orçun Yaşar</a> and <a href="">Ali Kemal Kılıç<a/>
+## Control Unit Was Made By <a href="https://github.com/Orcunysr">Orçun Yaşar</a> and <a href="https://github.com/ChestnutRisenKamehameha">Ali Kemal Kılıç<a/>
 ## Main Circuit Was Made And Assembled By <a href="https://github.com/mehmedaltug">Mehmed Altuğ Ede (me)</a>
 
 ---
@@ -102,16 +102,3 @@ git clone https://github.com/yourusername/8bit-4cycle-cpu.git
 * **Reset:** Resets the internal cycle counter to 0.
 * **Clock:** System clock input.
 * **Bus (x8):** 8-bit output for monitoring the current state of the main data bus.
-
-## Collaborators
-
-- mehmedaltug  
-  Designed and implemented the main CPU circuit, including the datapath and core components.
-
-- Orcun_ysr  
-  Designed the Control Unit architecture, including state sequencing and control signal logic.
-
-- ChestnutRisenKamehameha  
-  Implemented the Control Unit logic and assisted with state machine behavior.
-
-
