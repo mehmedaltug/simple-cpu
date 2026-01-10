@@ -1,3 +1,8 @@
+## Control Unit Was Made By <a href="https://github.com/Orcunysr">Orçun Yaşar</a> and <a href="">Ali Kemal Kılıç<a/>
+## Main Circuit Was Made And Assembled By <a href="https://github.com/mehmedaltug">Mehmed Altuğ Ede (me)</a>
+
+---
+
 # 8-Bit 4-Cycle CPU Design
 
 ## Overview
