@@ -81,7 +81,7 @@ This project appears to be designed using **Logisim** or **Logisim-Evolution**. 
 1. Download [Logisim-evolution](https://github.com/logisim-evolution/logisim-evolution) (recommended) or standard Logisim.
 2. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/8bit-4cycle-cpu.git
+git clone https://github.com/mehmedaltug/simple-cpu.git
 
 ```
 
